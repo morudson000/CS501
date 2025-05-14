@@ -1,0 +1,16 @@
+type,ID ,composer,genre,publisher,workTitle,songName
+digitalMusic,2,Tchaikovsky,Ballet,,,Swan Lake
+digitalMusic,2,Tchaikovsky,Ballet,,,The Sleeping Beauty
+digitalMusic,2,Tchaikovsky,Ballet,,,The Nutcracker
+digitalMusic,1,Delibes,Ballet,,,Coppelia
+digitalMusic,1,Delibes,Ballet,,,Sylvia
+digitalMusic,1,Tchaikovsky,Ballet,,,The Sleeping Beauty
+digitalMusic,1,Tchaikovsky,Ballet,,,The Nutcracker
+digitalMusic,3,Shostakovich,Ballet,,,"The Age of Gold, Op. 22: Polka"
+digitalMusic,3,Shostakovich,Ballet,,,"The Limpid Stream Suite, Op. 39A"
+digitalMusic,3,Prokofiev,Ballet,,,"Cinderalla Suite No. 2, Op. 108"
+digitalMusic,3,Delibes,Ballet,,,Sylvia: Les Chasseresses (The Huntresses)
+digitalMusic,3,Satie,Ballet,,,Parade
+sheetMusic,,Brahms,Orchestra,Schirmer,21 Hungarian Dances,null
+sheetMusic,,Debussy,Instrumental ,Schirmer ,"Preludes, Livre 1",null
+sheetMusic,,Schubert,Instrumental ,Boosey & Hawkes,"Piano Quintet in A major, D. 667",null
